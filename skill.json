@@ -1,0 +1,12 @@
+{
+  "name": "genpark-waterfall-enrichment-orchestrator-skill",
+  "version": "1.0.0",
+  "description": "Multi-provider waterfall data enrichment cascade for B2B company firmographics, funding tiers, and verified decision-maker work emails.",
+  "category": "Sales Intelligence & Lead Enrichment",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-waterfall-enrichment-orchestrator-skill",
+  "verified": true,
+  "stars": 8
+}
